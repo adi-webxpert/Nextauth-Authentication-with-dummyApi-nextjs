@@ -1,9 +1,8 @@
 ## Next.js Project with NextAuth Authentication
 This is a Next.js project created using create-next-app and Next_Auth for Authentication.
 
-## User Authentication with Dummy API and NextAuth Credentials
-
-In this project, a dummy login API is used for user authentication within the NextAuth and Next.js framework. Additionally, protected routing and middleware are implemented to secure access to specific pages.
+## User Authentication with Dummy API and NextAuth Credentials using the App Router
+In this project, a dummy login API is used for user authentication within the NextAuth and Next.js framework. We have implemented protected routing and middleware to secure access to specific pages, using the App Router instead of the Pages Router
 
 # User Login Credentials Displayed on Login Form
 The login form displays the user email and password required for authentication. For more details, you can access the login API documentation here: http://docs.recruitment-api.pyt1.stg.jmr.pl/
