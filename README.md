@@ -15,12 +15,17 @@ Install the necessary dependencies:
 # bash
 
 npm install
+
 npm run dev
+
 Alternatively, you can use:
 
 # bash
 
 yarn dev # for Yarn
+
 pnpm dev # for PNPM
+
 bun dev # for Bun
+
 Open http://localhost:3000 in your browser to view the application.
